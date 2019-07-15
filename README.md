@@ -1,5 +1,3 @@
-//the project is done in jupyter notebook
-
 data contains 961 instances of masses detected in mammograms, and contains the following attributes:
 
 BI-RADS assessment: 1 to 5 (ordinal)
